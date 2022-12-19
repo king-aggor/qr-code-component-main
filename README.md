@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://github.com/king-aggor/qr-code-component-main)
 
 ## My process
 
@@ -56,4 +56,4 @@ I learnt how to horizontally and vertically center a <div> by setting postion pr
 
 ## Acknowledgments
 
-A big thank you to Reggae Immortal on youtube for putting together the Remembering Lucky Dube Mix. It helped me stay focus. Link to the playlist-> https://www.youtube.com/watch?v=auDtNHs55KE
+A big thank you to Reggae Immortal on youtube for putting together the Remembering Lucky Dube Mix. It helped me stay focused. Link to the playlist-> https://www.youtube.com/watch?v=auDtNHs55KE
