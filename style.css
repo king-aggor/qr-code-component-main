@@ -30,7 +30,7 @@ img{
     border-radius:10px;
 }
 
-/* ---MEDIA QUARIES */
+/* ---MEDIA QUERIES */
 @media screen and (max-width:375px){
-    body{width:375px; background-color: green;}
+    body{width:375px;}
 }
