@@ -1,5 +1,5 @@
 body{
-    width: 1440px;
+    width: 100%;
     background-color:hsl(212, 45%, 89%);
     font-family: "outfit";
     font-weight: 400,700;
@@ -24,10 +24,13 @@ p{
     border-radius: 15px;
     text-align:center;
     padding: 10px;
-    
 }
-
 img{
     width:260px;
     border-radius:10px;
+}
+
+/* ---MEDIA QUARIES */
+@media screen and (max-width:375px){
+    body{width:375px; background-color: green;}
 }
